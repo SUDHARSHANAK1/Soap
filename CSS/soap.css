@@ -1,22 +1,28 @@
 body{
 	margin: 0;
+	background-color: #FFF5F5; 
 	
 }
 header{
-	background-color: #FFF5F5;
+	background-color: #F7E1E1;
 	text-align: center;
 }
 
 h2{
 	font-family:'Niconne', cursive;
 	font-size: 50px ;
+	margin: 0 auto;
 }
 main{
 	
 	font-size: 30px;
+	margin: 0 auto;
+	padding-left: 20px;
+
 }
 h3{
 	font-family:'Niconne', cursive;
 	font-size: 40px;
-	
+	margin: 0 auto;
+
 }
